@@ -1,11 +1,27 @@
+html{
+    background: linear-gradient(blue,red);
+}
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+
 }
 
 h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+
+}
+h3{
+    margin: 0;
+    padding: 0;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+
 }
 
 p{
     font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
 }
